@@ -113,8 +113,8 @@ Retail-Sales-Data-Warehouse
 │   │   └── load_bronze_data.sql
 │   │
 │   ├── silver
-│   │   ├── init_database.sql
-│   │   └── clean_transform_data.sql
+│   │   ├── ddl_for_silver_layer.sql
+│   │   └── sp_loading_data_silver.sql
 │   │
 │   ├── gold
 │   │   ├── ddl_for_golds.sql
