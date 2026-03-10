@@ -132,8 +132,8 @@ Retail-Sales-Data-Warehouse
 │        ├──Performance_Analysis.sql
 │
 │── Reports
-│         ├──
-│         ├──
+│         ├──report_customers.sql
+│         ├──report_products.sql
 │
 ├── dashboards
 │   └── retail_sales_dashboard.pbix
